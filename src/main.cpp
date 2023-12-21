@@ -9,6 +9,8 @@ Objective : Calculate the Distance travelled and steps taken.
 DataReading: Ability to successfully and continuously measure gyro values from the angular velocity sensor
 Use spi, ticker to read the data.
 spi, ticker -> set_flag(), set_mode();
+
+Link for the Demo Youtube Video is : https://youtu.be/oxfWvjw6qH8
 ------------------------------------------------------------------------*/
 
 
